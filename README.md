@@ -3,6 +3,7 @@
 Dataset link - [https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset]
 
 Tableau Dashboard link - [https://public.tableau.com/views/AmazonSalesPortfolioProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link]
+
 Title: Amazon Sale Analysis SQL Project
 
 Description: 
